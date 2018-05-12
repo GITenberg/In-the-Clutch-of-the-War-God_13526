@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4956
     wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13526#In-the-Clutch-of-the-War-God
 gutenberg_issued: '2004-09-26'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,32 @@
+_repo: In-the-Clutch-of-the-War-God_13526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hastings, Milo
+    aliases:
+    - Hastings, Milo M. (Milo Milton)
+    - Hastings, Milo Milton
+    - Spain, Dan
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '4956'
+    url: http://www.gutenberg.org/2009/agents/4956
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
+description: ''
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- !lcsh 'Science fiction'
+title: In the Clutch of the War-God
+url: http://www.gutenberg.org/ebooks/13526
